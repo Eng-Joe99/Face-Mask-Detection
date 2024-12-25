@@ -86,9 +86,8 @@ The project is implemented in Python and executed on Google Colab. It includes t
 3. Open the project in Google Colab or any Python IDE.
 4. Run the `main()` method to execute the pipeline.
 
-## Contact
+## Team Members
 
-Team members:
 - **Youssef Ahmed Khalil**
 - **Eslam Saad Gomaa**
 

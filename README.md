@@ -75,7 +75,7 @@ The project is implemented in Python and executed on Google Colab. It includes t
 ## Results
 
 - **Training Accuracy (CNN):** 94%
-- **Validation Accuracy (CNN):** 96%
+- **Validation Accuracy (CNN):** 92%
 - Confusion matrices demonstrate strong performance across models.
 
 ## How to Run

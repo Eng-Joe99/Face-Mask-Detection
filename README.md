@@ -6,8 +6,9 @@
 In response to the global COVID-19 pandemic and the widespread enforcement of mask mandates, this project demonstrates a deep learning approach for detecting faces with and without masks. Utilizing a custom Convolutional Neural Network (CNN) model trained on 7,553 RGB images, the project achieves a training accuracy of 94% and a validation accuracy of 92%.
 
 ## Dataset
-Dataset Link:<https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data>
-<br>
+Dataset Link: <https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data>
+
+
 The dataset consists of 7,553 images divided into two folders:
 - **With Mask:** 3,725 images
 - **Without Mask:** 3,828 images

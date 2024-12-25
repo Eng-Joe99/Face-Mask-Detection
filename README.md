@@ -88,8 +88,7 @@ The project is implemented in Python and executed on Google Colab. It includes t
 
 ## Contact
 
-For questions or feedback, please contact:
-- **Name:** Youssef Ahmed Khalil
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/your-profile)
+Team members:
+- **Youssef Ahmed Khalil**
+- **Eslam Saad Gomaa**
 
